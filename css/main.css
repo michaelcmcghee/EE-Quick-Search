@@ -1,0 +1,20 @@
+body{
+	width: 300px; 
+	padding: 10px;
+}
+
+#go{
+	background-color:#5bb131;
+}
+
+h4{
+	color:#329bdd;
+}
+.texty{
+	font-size: medium;
+	font-weight: 600;
+}
+
+li{
+	font-size: larger;
+}
